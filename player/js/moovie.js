@@ -50,7 +50,7 @@ class Moovie {
                 }
             },
             icons : {
-                path: "./icons/"
+                path: "https://sidwap.github.com/files/player/icons/icons/"
             },
             customEvents: [
                   {
